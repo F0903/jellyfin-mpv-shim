@@ -6,7 +6,7 @@
 [![Code Stype](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
 Jellyfin MPV Shim is a cross-platform cast client for Jellyfin.
-It has support for all your advanced media files without transcoding, as well as tons o
+It has support for all your advanced media files without transcoding, as well as tons of
 features which set it apart from other multimedia clients:
 
 - Direct play most media using MPV.
